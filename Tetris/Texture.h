@@ -1,6 +1,6 @@
 #ifndef _TEXTURE_H
 #define _TEXTURE_H
-
+#include"Config.h"
 
 
 class Texture
